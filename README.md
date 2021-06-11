@@ -3,7 +3,7 @@
 <ul>
   <li>Space Shooter &#10004</li>
   <li>Casual Game &#10004</li>
-  <li>TopDown Shooter</li>
+  <li>TopDown Shooter &#10004</li>
   <li>Plataforma</li>
 </ul>
 
